@@ -1,0 +1,5 @@
+SELECT TRUNC(AVG(rental_duration),2) AS average_days_rented, C.name AS genre,rating
+FROM film A
+INNER JOIN film_category B ON A.film_id = B.film_id
+INNER JOIN category C ON B.category_id = C.category_id
+GROUP BY genre,rating
