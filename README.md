@@ -1,7 +1,7 @@
 # SQL-queries
-## SQL for DA portfolio
+SQL for DA portfolio
 ### Career Foundry student project A3
-
+### Rockbuster Stealth Data Analysis
 #### Introduction
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the
 world. Facing stiff competition from streaming services such as Netflix and Amazon Prime,
